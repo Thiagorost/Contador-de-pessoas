@@ -2,6 +2,12 @@
 
 Primeiro projeto em flutter.
 
+<img width="338" alt="captura" src="https://user-images.githubusercontent.com/34063866/227742623-5e3d4431-fc59-4027-8b81-9efa6b49bb75.png">
+
+
+https://user-images.githubusercontent.com/34063866/227742654-0cc50937-bc9c-4a68-a51a-de5cca9417ec.mov
+
+
 
 
 
